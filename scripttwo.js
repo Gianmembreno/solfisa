@@ -24,7 +24,7 @@ function calculateAndEmail() {
   // Here you would send 'allData' to the server for emailing
   // This is just a simulation.
   alert(
-    `All data including points would be emailed to jose@gmail.com. Total Points: ${points}`
+    `Esta informacion seria enviada a la empresa y no visible al cliente. Total de Puntos: ${points}`
   );
 
   // Clear the sessionStorage
